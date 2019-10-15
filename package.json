@@ -1,0 +1,11 @@
+{
+  "name": "jesseloveslizzie",
+  "version": "1.0.0",
+  "description": "A website for Jesse and Lizzie",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Jesse Schimmel",
+  "license": "MIT"
+}
